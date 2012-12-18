@@ -1,1 +1,1 @@
-GRU XX - Menu: Green, Sair: Red.
+GRU XX
